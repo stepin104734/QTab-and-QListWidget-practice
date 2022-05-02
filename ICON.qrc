@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/TAB icons">
+        <file>redFlame.jpeg</file>
+        <file>blueFlame.jpeg</file>
+    </qresource>
+</RCC>
